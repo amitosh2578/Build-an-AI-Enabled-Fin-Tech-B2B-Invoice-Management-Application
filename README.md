@@ -73,7 +73,7 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 
 
 
-<img src="https://github.com/Kumar2390/Build-an-AI-Enabled-Fin-Tech-B2B-Invoice-Management-Application/raw/main/HRC40516W-front_end/HRC-png/ADD_UI.png"/>
+<img src="https://user-images.githubusercontent.com/84440770/223108626-692ce4cf-9a2d-4b7a-b466-9eab5787534e.png"/>
 <img src="https://github.com/Kumar2390/Build-an-AI-Enabled-Fin-Tech-B2B-Invoice-Management-Application/raw/main/HRC40516W-front_end/HRC-png/Advance_search_UI.png"/>
 <img src="https://github.com/Kumar2390/Build-an-AI-Enabled-Fin-Tech-B2B-Invoice-Management-Application/raw/main/HRC40516W-front_end/HRC-png/Analytics_view_UI.png"/>
 <img src="https://github.com/Kumar2390/Build-an-AI-Enabled-Fin-Tech-B2B-Invoice-Management-Application/raw/main/HRC40516W-front_end/HRC-png/DELETE_UI.png"/>
