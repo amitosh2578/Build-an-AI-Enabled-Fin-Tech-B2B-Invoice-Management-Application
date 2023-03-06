@@ -84,7 +84,7 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 ## :man: Project Created & Maintained By
 
 
-<img src = "![P 1138972](https://user-images.githubusercontent.com/84440770/223108048-7ef67493-e040-463e-b3e4-ac2c46ec649e.jpg)"  height="130" alt=""> <br>Amitosh Mohapatra
+<img src = "https://user-images.githubusercontent.com/84440770/223108048-7ef67493-e040-463e-b3e4-ac2c46ec649e.jpg"  height="130" alt=""> <br>Amitosh Mohapatra
 <p>
 <a href = "https://github.com/amitosh2578"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/amitosh-mohapatra-477a97213/">
