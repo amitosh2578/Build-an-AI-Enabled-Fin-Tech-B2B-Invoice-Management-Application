@@ -77,7 +77,7 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 <img src="HRC40516W-front_end/HRC-png/Advance_search_UI.png"/>
 <img src="HRC40516W-front_end/HRC-png/Analytics_view_UI.png"/>
 <img src="HRC40516W-front_end/HRC-png/DELETE_UI.png"/>
-<img src="EDIT_UI.png">
+<img src="EDIT_UI.png"/>
 
 ---
 
