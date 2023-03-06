@@ -73,11 +73,11 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 
 
 
-<img src="https://user-images.githubusercontent.com/84440770/223108626-692ce4cf-9a2d-4b7a-b466-9eab5787534e.png"/>
-<img src="https://github.com/Kumar2390/Build-an-AI-Enabled-Fin-Tech-B2B-Invoice-Management-Application/raw/main/HRC40516W-front_end/HRC-png/Advance_search_UI.png"/>
-<img src="https://github.com/Kumar2390/Build-an-AI-Enabled-Fin-Tech-B2B-Invoice-Management-Application/raw/main/HRC40516W-front_end/HRC-png/Analytics_view_UI.png"/>
-<img src="https://github.com/Kumar2390/Build-an-AI-Enabled-Fin-Tech-B2B-Invoice-Management-Application/raw/main/HRC40516W-front_end/HRC-png/DELETE_UI.png"/>
-<img src="https://github.com/Kumar2390/Build-an-AI-Enabled-Fin-Tech-B2B-Invoice-Management-Application/raw/main/HRC40516W-front_end/HRC-png/EDIT_UI.png"/>
+<img src="https://user-images.githubusercontent.com/84440770/223109562-8eadac44-9399-41ee-acd8-d8118fdd51fc.png"/>
+<img src="https://user-images.githubusercontent.com/84440770/223109586-9756cc20-b04e-4b6c-8743-d57e6fec853a.png"/>
+<img src="https://user-images.githubusercontent.com/84440770/223109615-1421d299-d652-48e5-88a6-6be560d2c2a9.png"/>
+<img src="https://user-images.githubusercontent.com/84440770/223109641-4ec413df-5a1c-4a26-a9c3-5a8cf5b76650.png"/>
+<img src="https://user-images.githubusercontent.com/84440770/223109666-5d1348ca-b797-4b1c-b7d2-283a8cc7081e.png"/>
 
 ---
 
