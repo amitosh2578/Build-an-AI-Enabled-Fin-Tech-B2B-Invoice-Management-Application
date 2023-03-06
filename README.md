@@ -82,6 +82,7 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 ---
 
 ## :man: Project Created & Maintained By
+![P 1138972](https://user-images.githubusercontent.com/84440770/223108048-7ef67493-e040-463e-b3e4-ac2c46ec649e.jpg)
 
 <img src = "C:/Users/AMITOSH MOHAPATRA/Pictures/Saved Pictures/P 1138972.jpg"  height="130" alt=""> <br>Amitosh Mohapatra
 <p>
